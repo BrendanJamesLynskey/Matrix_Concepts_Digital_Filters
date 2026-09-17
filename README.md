@@ -28,6 +28,14 @@ put it back together again.
 The same material as a written report:
 [Matrix_Concepts_Digital_Filters.pdf](Matrix_Concepts_Digital_Filters.pdf) (7 pp).
 
+## Where this is used
+
+Every equaliser in [Signal Integrity &amp; High-Speed Digital Design](https://github.com/BrendanJamesLynskey/Signal_Integrity) is an instance
+of the optimal-tap problem set out here &mdash; including the reference receiver that
+deck 11 of that series uses to compute a channel operating margin, and the
+minimum-mean-square-error design in
+[Equalisation in High-Speed Serial Links](https://github.com/BrendanJamesLynskey/SerDes_Equalisation).
+
 ## Companion deck
 
 [Matrix Methods in Network Parameters](https://github.com/BrendanJamesLynskey/Matrix_Methods_Network_Parameters)
